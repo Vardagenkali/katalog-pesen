@@ -62,6 +62,9 @@ void Add(Music song) {
 
 	}
 	if (choice == 2) {
+		string file_name2;
+		cout << "¬ведите название файла: ";
+		cin >> file_name2;
 
 	}
 }
